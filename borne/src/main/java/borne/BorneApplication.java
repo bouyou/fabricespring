@@ -8,8 +8,15 @@ public class BorneApplication {
 
 	public static void main(String[] args) {
 
+
+
+
 		SpringApplication.run(BorneApplication.class, args);
 		System.out.println("yo");
+
+
+
+
 	}
 
 }
